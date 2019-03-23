@@ -44,9 +44,13 @@ a:active {
   background-color: #34495e;
   color: white;
 }
+<<<<<<< HEAD
 .underline {
   text-decoration: underline;
 }
+=======
+
+>>>>>>> 2487150a9f1e624b23545dda59d3eacb48e52a72
 footer {
     margin-top: 3em;
     margin-bottom: 7em;
@@ -91,6 +95,7 @@ from {
   }
 }
 
+<<<<<<< HEAD
 .caption-content {
   overflow: hidden;
 }
@@ -116,6 +121,8 @@ from {
 }
 
 
+=======
+>>>>>>> 2487150a9f1e624b23545dda59d3eacb48e52a72
 .bg-color {
     background-color: #ecf0f1;
 }
